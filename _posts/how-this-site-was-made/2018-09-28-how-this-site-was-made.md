@@ -37,7 +37,7 @@ $ jekyll new my-site && cd my-site # create new jekyll project
 $ jekyll s # run jekyll server
 ```
 
-Now, jekyll is running on your local machine, open your browser and go to `localhost:4000` is default address from jekyll, press <kbd>CTRL</kbd> + <kbd>C</kbd> to stop the jekyll server.
+Now, jekyll is running on your local machine, open your browser and go to `st:4000` is default address from jekyll, press <kbd>CTRL</kbd> + <kbd>C</kbd> to stop the jekyll server.
 
 #### Adding remote repository
 
