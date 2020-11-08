@@ -24,7 +24,7 @@ author:
 
 # URL settings
 url: "https://luismiguells.github.io" #
-baseurl:
+baseurl: "https://luismiguells.github.io"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
