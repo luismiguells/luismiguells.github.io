@@ -1,12 +1,12 @@
 ---
 title: Age and Gender Identification in Unbalanced Social Media
-date: 2018-01-18 10:48:47 +06:00
+date: 2019-01-18 10:48:47 +06:00
 tags: [machine learning, nlp]
 description: Using an unbalanced dataset we aim to identificated the age and the gender from a group of users.
 ---
 
 <figure>
-<img src="/assets/img/posts/2018-01-18-age-gender-pinterest/diversity.png" alt="Diversity">
+<img src="/assets/img/posts/2019-01-18-age-gender-pinterest/diversity.png" alt="Diversity">
 </figure>
 
 **Abstract:**
