@@ -6,7 +6,7 @@
   url: /archive/
   external: false
 
-- title: resume
+- title: cv
   url: /assets/files/CV.pdf
   external: true # set true if you using external link, see below
 
