@@ -2,17 +2,14 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
-  external: false
-
 - title: cv
   url: /assets/files/CV.pdf
   external: true # set true if you using external link, see below
 
 - title: publications
-  url: https://scholar.google.com/citations?user=wj_CWYsAAAAJ&hl=es
-  external: true # set true if you using external link, see below
+  url: /publications/
+  external: false
+
 
 # Example:
 # - title: github
