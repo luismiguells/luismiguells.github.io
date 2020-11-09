@@ -3,7 +3,7 @@ title: luismiguells # site title
 description: My personal webpage
 timezone: America/Mexico_City # set your timezone
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/luismiguells/luismiguells.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
