@@ -9,7 +9,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Luis-Miguel López-Santamaría # author name
-  bio: I'm a master student from the University of Guanajuato. I work under the supervision of <a href="https://jcgcarranza.wixsite.com/juancarlosgomez">Dr. Juan Carlos Gomez</a>. 
+  bio: I'm a master student from the University of Guanajuato. I work under the supervision of [Dr. Juan Carlos Gomez](https://jcgcarranza.wixsite.com/juancarlosgomez). 
        My research interests are centered on the areas of machine learning (ML), natural language processing (NLP) 
         and data mining (DM). Recently, I'm working on author profiling methods using cross datasets and fake news indentification.
   github: luismiguells # github username
