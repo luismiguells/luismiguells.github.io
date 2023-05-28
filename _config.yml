@@ -9,9 +9,12 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Luis-Miguel López-Santamaría # author name
-  bio: I'm a master student from the University of Guanajuato. I work under the supervision of <a href="https://jcgcarranza.wixsite.com/juancarlosgomez">Dr. Juan Carlos Gomez</a>. 
-       My research interests are centered on the areas of machine learning (ML), natural language processing (NLP) 
-        and data mining (DM). Recently, I'm working on author profiling methods using cross datasets and fake news indentification.
+  bio: Experienced data enthusiast with a research focus on machine learning (ML), natural language processing (NLP), and data mining (DM). 
+  Recently, I have been conducting research on author profiling methods using cross datasets and fake news identification. 
+  I bring a wealth of expertise in text classification, machine learning, and data analysis, with a solid background in database and operating system management. 
+  My goal is to apply my skills to drive effective decision-making and deliver scalable solutions that optimize outcomes. I thrive in dynamic and fast-paced environments, adapting to change while consistently delivering high-quality results.
+  In addition to my technical proficiencies, I am known for my collaborative approach and ability to inspire teamwork in developing optimal solutions. I actively seek opportunities to learn from my peers and foster a culture of continuous learning. 
+  With a demonstrated track record of leadership, I have successfully led teams to create positive and productive work environments.
   github: luismiguells # github username
   twitter: luismiguells # twitter username
   facebook: facebook_username # facebook username
