@@ -8,11 +8,8 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Luis-Miguel López-Santamaría # author name
-  bio: Data engineer with 2+ years of experience in machine learning, NLP, and advanced analytics. 
-        Skilled in building scalable data solutions, cloud technologies, and systems architecture to drive strategic decision-making 
-        and operational efficiency. Proven leader with a background in research on fake news detection and author profiling, 
-        passionate about mentoring, cross-functional collaboration, and delivering high-impact results.
+  name: Luis Miguel López Santamaría # author name
+  bio: Data Engineer with 5+ years of engineering experience, specializing in building scalable data ecosystems and transforming fragmented environments into high-performance AWS cloud infrastructures. Proven track record in zero-to-one initiatives, establishing robust CI/CD engineering standards, and enforcing comprehensive data governance policies. Experienced in technical leadership, including agile task management and cross-functional collaboration. Highly skilled in leveraging AI-driven workflows and custom AI agents to accelerate code development, optimize architecture design, and automate system maintenance (such as API versioning and bug triaging). Recognized for rapid technology adoption and driving business strategy through reliable data products.
   github: luismiguells # github username
   twitter: luismiguells # twitter username
   facebook: facebook_username # facebook username
