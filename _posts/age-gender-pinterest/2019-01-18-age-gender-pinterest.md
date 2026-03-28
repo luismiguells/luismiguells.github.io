@@ -6,7 +6,7 @@ description: Using an unbalanced dataset we aim to identificated the age and the
 ---
 
 <figure>
-<img src="/assets/img/posts/2019-01-18-age-gender-pinterest/diversity.png" alt="Diversity">
+<img src="diversity.png" alt="Diversity">
 </figure>
 
 **Abstract:**
