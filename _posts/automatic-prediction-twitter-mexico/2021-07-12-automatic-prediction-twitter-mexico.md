@@ -6,7 +6,7 @@ description: Using a dataset extracted from Twitter we aim to identify if the us
 ---
 
 <figure>
-<img src="/assets/img/posts/2021-07-12-automatic-prediction-twitter-mexico/twitter.png" alt="Twitter">
+<img src="twitter.png" alt="Twitter">
 </figure>
 
 **Abstract:**
