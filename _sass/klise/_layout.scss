@@ -210,7 +210,7 @@
   .author-bio {
     margin: 0 auto;
     opacity: 0.9;
-    max-width: 550px;
+    max-width: 660px;
     line-height: 1.688;
   }
 }
@@ -232,8 +232,13 @@ i.ai {
   display: inline-block;
   border-radius: 100%;
   box-shadow: 0px 0px 2px #888;
-  padding: 0.9em 0.9em;
+  padding: 0.9em;
   font-size: 18px;
+  width: 1.2em;
+  height: 1.2em;
+  line-height: 1.2em;
+  text-align: center;
+  vertical-align: middle;
 }
 
 // List of posts
