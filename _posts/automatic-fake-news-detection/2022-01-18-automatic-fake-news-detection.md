@@ -1,5 +1,5 @@
 ---
-title: Age and Gender Identification in Unbalanced Social Media
+title: Automatic Fake News Detection in Online Media
 date: 2022-01-18 10:48:47 +06:00
 tags: [machine learning, nlp, fake news]
 description: Using different data sets, we aim to create a model to identify fake news in online media.
